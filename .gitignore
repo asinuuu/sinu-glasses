@@ -1,0 +1,3 @@
+# Built apps contain Meta's SDK. Never commit them to this public repo.
+builds/
+*.ipa
